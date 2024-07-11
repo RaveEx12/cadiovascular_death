@@ -45,3 +45,5 @@ Based on the evaluation, **LightGBM** was chosen as the final model for this pro
 
 ## Conclusion
 The notebook provides a comprehensive workflow for building a predictive model for cardiovascular risk. The chosen model, LightGBM, demonstrated robust performance and generalization capability. Future work can focus on further hyperparameter tuning, alternative outlier detection methods, and exploring additional features for improved accuracy.
+
+**Note:** I have added a complete auto environment setup to be able to run the notebook on github codespaces
